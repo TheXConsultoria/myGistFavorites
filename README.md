@@ -19,8 +19,8 @@ https://gist.github.com/felipegtx/6107975 now at (https://github.com/felipegtx/S
 https://gist.github.com/felipegtx/aed39b7e86595eec8c27
 
 ### WordsBag
-Simple implementation that resembles the behavior of *string.StartsWith* method focused on performance when filtering (or searching for that mater) on a large set of strings. Perfect for scenarios where a auto suggest is the desired result.   *PS: ThreadSafe.
-Raw
+Simple implementation that resembles the behavior of *string.StartsWith* method focused on performance when filtering (or searching for that mater) on a large set of strings. Perfect for scenarios where a auto suggest is the desired result. *ThreadSafe*
+
 https://gist.github.com/felipegtx/5ac4afcd305a8d9488fc
 
 # Patterns and programming experiments
