@@ -4,7 +4,7 @@ Some small experiments that might turn out helpful to someone.
 # Helpful libraries
 ## C#
 ### Instance Resolver
-Really small+fast IoC/DI implementation
+Really small+fast IoC/DI implementation ([Available from NuGet](https://www.nuget.org/packages/InstanceResolverFor?NormalizedVersion=1.0.0))
 - https://gist.github.com/felipegtx/596dfc55131359ec354f
 
 ### Simple Singleton
